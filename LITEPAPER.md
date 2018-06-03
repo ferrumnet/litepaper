@@ -72,9 +72,53 @@ Ferrum is designed to allow developers to create new tokens that can be transact
 
 As Ferrum Network continues to develop, it will be built to allow developers to issue their own native tokens, which can be recognized and transacted similarly to other native or imported tokens in the Ferrum network.
 
+# Ferrum Products 
+Ferrum is designed from the ground up to support tokens that represent external assets. It provides mechanisms to secure the transfer of assets from other networks. In addition to crypto assets, it can represent real-world assets such as fiat currencies. 
 
+## Payment solutions 
+Ferrum Network envisions a day in which merchants and consumers can transact in cryptocurrencies for every day purchases over the Ferrum Network. To this end, Ferrum Network is a building a decentralized payment solution. Using the Ferrum Network, merchants and services will be able to accept and seamlessly transact with any cryptocurrency in a fast and scalable manner. For instance, by creating a proxy BTC on the Ferrum Network, consumers will be able to quickly and cheaply purchase a cup of coffee, which would not otherwise be possible using the Bitcoin network due to its relatively slow transaction times and high fees.  
 
+Ferrum Network recognizes that to achieve the vision of cryptocurrencies being used as an everyday medium of exchange, it will require considerable marketing resources to bring merchants into the Ferrum Network family. For this reason, Ferrum Network intends to dedicate a significant portion of its time and funds to developing a robust and effective marketing strategy in order to bring about a world where cryptocurrencies are transacted for everyday use.  
 
+## Open-source decentralized exchange
+Today, decentralized exchanges are far from ideal when it comes to end consumers. We believe the user friendliness, and security features of decentralized exchange applications is of extreme importance. There are many high-profile hacks of decentralized exchanges such as Etherdelta that have been mainly due to low quality exchange applications.  
+
+We are working on building a secure and fast open sourced decentralized exchange application with state of the art security features. This project will be available to public with a permissive license with the goal of raising the bar for security and user friendliness of decentralized exchanges. 
+
+# Ferrum Advanced Features
+Ferrum Network was designed with the following vision in mind: to be the first network to facilitate the seamless transaction and exchange of both cryptocurrencies and fiat currencies and to remove the barriers that have impeded the use of cryptocurrencies for everyday transactions.  In other words, Ferrum Network is dedicated to bringing the world of cryptocurrencies to the masses and is developing the following protocols in order to achieve that vision: tokenizing fiat currencies, low latency transactions, dApps, and sub networks.  
+
+Although Ferrum's advanced features are major parts of our vision, they will only be launched in the test-net for a period of time and will slowly be adopted on the main-net after battle testing all the technical and legal details. 
+
+## Tokenizing fiat
+The protocols that allows Ferrum Network to see across networks is simple enough that is not specifically bound to cryptocurrencies. An entity holding fiat currencies may as well expose such protocols and allow generation of Fe(USD) and Fe(EUR) or any other currency in the world. Once fiat currencies are entered the Ferrum network, they can be freely transacted or exchanged by each other or any other crypto-currency.  
+
+For example, in a hypothetical scenario, an Australian financial institution can provide the following public interfaces to their bank account database, which would enable the generation of Fe (AUD): 1) a funding lock account number that has no owner, whereby any transactions sent to that account are not reversible; 2) the ability to users to expose their bank account numbers without the need to expose the account value; and 3) a public ledger that shows that the transactions happened between the exposed accounts. 
+
+Such an interface is enough to enable generation of Fe(AUD) in the Ferrum network without requiring trust to the financial institution. A decentralized database can create a duplicate record of the published transactions, thus removing the ability of the financial institution to modify the transaction history.  
+
+## The Ferrum dApp paradigm
+Ferrum Network enables users to write their code using their favorite language, whether that be Python, Go, Java, etc., and package it with all the dependencies. They can use their existing tooling and programming knowledge to write a decentralized application (or dApp). This immediately increases the number of people who can contribute to the decentralized ecosystem. 
+
+Currently, a user can write an application, package it with dependencies and run it on one of the common cloud providers, such as Amazon (AWS), Microsoft (Azure), or Google Compute Cloud. They pay for the resources they use to the cloud providers. Ferrum Network turns this model upside down by allowing users to present their compute resources to the Ferrum network. In other words, users can run decentralized applications and get paid for their resources in Fe(PUR). 
+
+We propose a flexible protocol that allows users to choose a trade-off between security and cost. Ferrum's decentralized application model is also scalable because the relationship between compute power required for the network and the scale of the network is linear. 
+
+## The Ferrum family of networks for scalability and specialization 
+Ferrum Network is designed with flexibility, scalability and specialization in mind. Ferrum Side Networks can seamlessly interact with the main Ferrum Network, while keeping their load off of the main network, thereby improving scalability and facilitating innovation and specialization.  
+
+In addition of scalability, Ferrum side networks allow for specialization of sub-networks. For example, a small nation state decides to adopt a digital currency, which they control completely, yet must interact with the external world. They can adopt a Ferrum spin-off for their economy and issue their currency without concern of being dependent on a network that they do not control. Another example is a spin-off that is adopted by a scientific community to experiment with and study Genome models. Such a network has specialized needs, such as memory and processor heavy smart contracts, or high bandwidth, and they may wish to limit submitting transactions on the network only to the members of the community. Such a sub-network can create a Ferrum spin-off for their specialized needs, yet be able to interact to the external world, sell their results, receive money, etc. through their connection to the main Ferrum Network. 
+
+Although Ferrum Network makes interaction between networks possible, the Ferrum spin-offs have a much tighter interaction, such that the movement of value and logic will be nearly seamless. One can think about the group of heterogeneous networks interacting with each other as countries with different currencies and strict borders, and the network of Ferrum colonies as the European Union, a collection of etworks with the same currency and seamless interaction, while each keep their own locality.
+
+# Roadmap 
+The roadmap will be released at a later time. 
+
+# Team 
+Ferrum Network is comprised of highly capable and driven individuals from across the spectrum, from technology to finance to law. Bios of our individual members and advisors will be included in subsequent versions of the whitepaper. To request further details about the team, please contact us at [info@ferrumnet.org](mailto:info@ferrumnet.org).
+
+# Conclusion
+Ferrum Network is a decentralized network of nodes that can process high throughput cross-chain transactions. Ferrum Network uses a plug-in mechanism and a protocol to see across chains. Ferrum Network also provides a set of specialized transactions that facilitate exchanges within the network, and across the network with external networks. In addition, Ferrum Network users can import value from external networks, being other crypto-currencies or even fiat currencies. It allows the community to extend the network to import any form of value. Once value in imported in to the Ferrum Network, it can be transacted and exchanged for minimal fees. Ferrum further provides mechanisms for users to export the value back to the original network. Moreover, Ferrum Network provides a platform for users to generate their own tokens and build their own dApps.  In sum, Ferrum Network aims to be the first decentralized network that can bring together the best of both fiat and cryptocurrency systems today and is very well equipped to bring fiat currencies into the digital realm.   
 
 
 
