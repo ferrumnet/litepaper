@@ -38,7 +38,8 @@ Ferrum Network is a DAG-based system designed to achieve the following functions
 Bitcoin was the first widely known decentralized cryptocurrency. In his whitepaper, Satoshi Nakamoto set forth his vision for the cryptocurrency Bitcoin, and presented a secure mechanism which became known as blockchain for storing transactions. Blockchain is a Merkle Hash Tree that is pruned into a Merkle Hash linked list by competing miners. Figure 1 (a) shows a blockchain where blocks are linked together. 
 There is another method of implementing decentralized ledgers by decentralized network, known as a DAG based network. DAG is short for Directed Acyclic Graphs, which describes the data structure that represents transactions in these networks. Figure 1(b) illustrates transactions in a DAG based network. 
 
-![Figure 1](img/image1.png)
+![](https://github.com/naiemk/litepaper/raw/master/fig1.png)
+
 Figure 1 Blockchain (a) versus DAG (b) 
 
 Ferrum's DAG-based cryptocurrency network works similar to IOTA at its core. The transactions issued by nodes constitute a graph, which is the ledger for storing transactions. When a new transaction arrives, it selects two other transaction to approve. These approvals are represented by directed edges, as shown in Figure 1 (b). By following the approval path of the transactions, eventually we reach the first transaction that initiates the graph. The origin transaction does not necessarily issue any tokens. However, one of the breakthroughs of the Ferrum Network is that it allows the issuance of token backed by external networks or originated in the Ferrum network.  
